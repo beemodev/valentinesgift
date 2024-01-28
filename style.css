@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(pexels-codioful-\(formerly-gradienta\)-7135037.jpg ) no-repeat top center/cover ;
+}
+body *
+{
+      font-family: "Sixtyfour", sans-serif;    
+      font-variation-settings:
+        "BLED" 0,
+        "SCAN" 0;
+    
+color: #d7ced5af;
+text-decoration: none;
+
+}
+li{
+    
+    list-style: none;
+    justify-content: center;
+    background: rgba(96, 58, 109, 0.326);
+    padding: 10px 10px;
+    border: 1px solid rgba(22, 13, 13, 0.268);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    backdrop-filter: blur(5px);
+    font-weight: 500px;
+    height: 35px;
+    width: 120px;
+}
+.text{
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+}
+#container{
+    width: 900px;
+    margin: 60px auto 0px;
+    padding: 0 24px;
+}
